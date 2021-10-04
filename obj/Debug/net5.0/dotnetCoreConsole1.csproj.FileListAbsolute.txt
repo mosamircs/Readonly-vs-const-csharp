@@ -1,0 +1,16 @@
+/mnt/d/testApps/dotnetCoreConsole1/bin/Debug/net5.0/dotnetCoreConsole1
+/mnt/d/testApps/dotnetCoreConsole1/bin/Debug/net5.0/dotnetCoreConsole1.deps.json
+/mnt/d/testApps/dotnetCoreConsole1/bin/Debug/net5.0/dotnetCoreConsole1.runtimeconfig.json
+/mnt/d/testApps/dotnetCoreConsole1/bin/Debug/net5.0/dotnetCoreConsole1.runtimeconfig.dev.json
+/mnt/d/testApps/dotnetCoreConsole1/bin/Debug/net5.0/dotnetCoreConsole1.dll
+/mnt/d/testApps/dotnetCoreConsole1/bin/Debug/net5.0/ref/dotnetCoreConsole1.dll
+/mnt/d/testApps/dotnetCoreConsole1/bin/Debug/net5.0/dotnetCoreConsole1.pdb
+/mnt/d/testApps/dotnetCoreConsole1/obj/Debug/net5.0/dotnetCoreConsole1.csproj.AssemblyReference.cache
+/mnt/d/testApps/dotnetCoreConsole1/obj/Debug/net5.0/dotnetCoreConsole1.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/testApps/dotnetCoreConsole1/obj/Debug/net5.0/dotnetCoreConsole1.AssemblyInfoInputs.cache
+/mnt/d/testApps/dotnetCoreConsole1/obj/Debug/net5.0/dotnetCoreConsole1.AssemblyInfo.cs
+/mnt/d/testApps/dotnetCoreConsole1/obj/Debug/net5.0/dotnetCoreConsole1.csproj.CoreCompileInputs.cache
+/mnt/d/testApps/dotnetCoreConsole1/obj/Debug/net5.0/dotnetCoreConsole1.dll
+/mnt/d/testApps/dotnetCoreConsole1/obj/Debug/net5.0/ref/dotnetCoreConsole1.dll
+/mnt/d/testApps/dotnetCoreConsole1/obj/Debug/net5.0/dotnetCoreConsole1.pdb
+/mnt/d/testApps/dotnetCoreConsole1/obj/Debug/net5.0/dotnetCoreConsole1.genruntimeconfig.cache
